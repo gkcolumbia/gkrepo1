@@ -1,0 +1,2 @@
+# do substratioO0on
+echo $(($1-$2))
