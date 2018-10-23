@@ -1,2 +1,2 @@
-# do substratioO0on
+# do substraction well
 echo $(($1-$2))
