@@ -1,2 +1,2 @@
-# do substratioO0on
+# do substration
 echo $(($1-$2))
