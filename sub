@@ -1,2 +1,6 @@
-# do substraction well
+
+
+
+# do substration
+>>>>>>> feature1
 echo $(($1-$2))
